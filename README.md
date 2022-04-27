@@ -1,2 +1,2 @@
 # Python-Projects
-This repo contains many small python projects
+This repository contains the source code of some popular desktop games built with python
